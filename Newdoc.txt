@@ -1,0 +1,2 @@
+Creating from git new branch
+git status
